@@ -2,4 +2,4 @@
 
 My attempt on the HackerRank Hurdle Race Challenge
 
-[Challenge can be found at](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
+[Challenge can be found here](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
